@@ -1,0 +1,16 @@
+h1 {
+  color: rgb(255, 30, 165);
+  font-family: Helvetica;
+}
+
+img {
+  width: 200px;
+}
+
+.box-1 {
+  border: 1px solid black;
+}
+
+.highlight {
+  background-color: red;
+}

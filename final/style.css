@@ -1,0 +1,27 @@
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  margin: 0;
+}
+
+nav {
+  background-color: #393E46;
+  color: #eee;
+  padding: 10px;
+}
+
+nav a {
+  color: #eee;
+  text-decoration: none;
+}
+
+.task-column {
+   background-color: #e6e6e6;
+   border-radius: 3px;
+   min-height: 200px;
+ }
+
+ .task-column-title {
+   border-bottom: 1px solid rgba(57, 62, 70, 1);
+   font-size: 30px;
+ }
